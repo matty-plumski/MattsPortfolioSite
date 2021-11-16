@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
-day_night: true
+theme: coffee
+day_night: false
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: jonathan.flutey@bossville.com
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
